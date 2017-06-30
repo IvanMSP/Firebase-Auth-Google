@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseAuthGoogle</string>
+    <string name="welcomeFullStack">Welcome to FullStack Community</string>
+    <string name="SignOut">Sign Out</string>
+</resources>
